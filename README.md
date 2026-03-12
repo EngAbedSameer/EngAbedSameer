@@ -1,7 +1,7 @@
 # Hi there, I'm Abed Sameer 👋
 ### Senior Software Engineer | Flutter & Mobile Apps Specialist
 
-I am a passionate **Software Engineer** with a deep background in **Systems Analysis** and **Electronics**. My core expertise lies in building high-performance, cross-platform mobile applications using **Flutter**, but my experience spans across hardware integration, networking, and technical team leadership.
+I am a passionate **Software Engineer** with a deep background in **Systems Analysis** . My core expertise lies in building high-performance, cross-platform mobile applications using **Flutter**, but my experience spans across hardware integration, networking, and technical team leadership.
 
 ---
 
@@ -9,8 +9,8 @@ I am a passionate **Software Engineer** with a deep background in **Systems Anal
 
 - **Mobile Development:** Flutter & Dart (Expert), Native Android Integration.
 - **State Management:** GetX, Bloc, Riverpod.
-- **Backend & Tools:** Firebase, REST APIs, OCR Text Extraction, QR Payment Systems.
-- **Systems & Infrastructure:** Systems Analysis, Mikrotik Networking, Solar Energy & Hardware Circuit Design.
+- **Backend & Tools:** Firebase, REST APIs, OCR Text Extraction.
+- **Systems & Infrastructure:** Systems Analysis.
 - **Project Management:** Agile Methodologies, OpenProject, Team Leadership.
 
 ---
@@ -18,7 +18,6 @@ I am a passionate **Software Engineer** with a deep background in **Systems Anal
 ### 🚀 Featured Projects
 
 - **Educational Management System:** A comprehensive Flutter-based platform for teaching centers to manage student records and administrative data.
-- **6ammart Vendor App:** Integrated a seamless QR payment system for vendor-side transactions.
 - **Background OCR Monitor:** An Android utility that monitors device storage to automatically extract text from newly added images.
 
 ---
@@ -31,14 +30,13 @@ I am a passionate **Software Engineer** with a deep background in **Systems Anal
 ---
 
 ### 📈 GitHub Stats
-![Abed's GitHub stats](https://github-readme-stats.vercel.app/api?username=abedsameer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abedsameer&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engabedsameer&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Portfolio:** [Your Portfolio Link]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/abedsameer/)]
+- **Portfolio:** [https://linktr.ee/abedsameer]
+- **Email:** [Eng.abed.s.sh@gmail.com]
 
 *"Turning complex system requirements into elegant mobile solutions."*
