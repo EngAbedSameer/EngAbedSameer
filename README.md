@@ -35,7 +35,7 @@ I am a passionate **Software Engineer** with a deep background in **Systems Anal
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [[Your LinkedIn Profile Link](https://www.linkedin.com/in/abedsameer/)]
+- **LinkedIn:** [https://www.linkedin.com/in/abedsameer]
 - **Portfolio:** [https://linktr.ee/abedsameer]
 - **Email:** [Eng.abed.s.sh@gmail.com]
 
